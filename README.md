@@ -16,7 +16,7 @@ You can also choose to delete all your data from within the app. Once deleted, y
 4. Third-Party Services
 The App uses Google AdMob to display in-app advertisements. AdMob may collect certain data for advertising purposes, including anonymized device identifiers and usage patterns. For more information on how AdMob handles data, please refer to:
 [👉 Google AdMob Privacy Policy](https://policies.google.com/technologies/ads):
-We do not share any data you enter into the App with AdMob or any other third parties.
+ We do not share any data you enter into the App with AdMob or any other third parties.
 
 6. Location Data
 Fuel Buddy does not request or use your device’s location services. No GPS data is collected.
