@@ -11,14 +11,11 @@ All fuel logs, efficiency calculations, and other data you input into Fuel Buddy
 
 3. Data Export and Deletion
 You may choose to export your data in a shareable format at any time.
-
 You can also choose to delete all your data from within the app. Once deleted, your data is permanently removed and cannot be recovered.
 
 4. Third-Party Services
 The App uses Google AdMob to display in-app advertisements. AdMob may collect certain data for advertising purposes, including anonymized device identifiers and usage patterns. For more information on how AdMob handles data, please refer to:
-
-👉 Google AdMob Privacy Policy
-
+[👉 Google AdMob Privacy Policy](https://policies.google.com/technologies/ads)
 We do not share any data you enter into the App with AdMob or any other third parties.
 
 5. Location Data
@@ -26,7 +23,6 @@ Fuel Buddy does not request or use your device’s location services. No GPS dat
 
 6. Cloud and Backup
 The App does not automatically use cloud services or backups.
-
 You may manually import or export data via iCloud or other storage options using iOS’s file-sharing capabilities.
 
 7. Children’s Privacy
